@@ -1,6 +1,10 @@
 Update file number one
 
+<<<<<<< Updated upstream
 Я оновив цей файл
 
 Ще одне оновлення
 І ще один комміт
+=======
+я також оновив цей файл
+>>>>>>> Stashed changes
